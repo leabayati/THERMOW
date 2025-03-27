@@ -1,0 +1,8 @@
+matplotlib
+numpy
+scipy
+psutil
+appJar
+arrow
+pathos
+mdptoolbox
